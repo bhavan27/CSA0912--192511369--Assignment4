@@ -1,0 +1,4 @@
+1. Launch DrawPad; status should read Clicks: 0.
+2. Click three different positions in the drawing area; status should read Clicks: 3 and three dots should appear.
+3. Minimise the window and restore it; all three dots should remain because paint() redraws stored points.
+4. Close the window; it should dispose cleanly.

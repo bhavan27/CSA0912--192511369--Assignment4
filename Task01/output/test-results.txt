@@ -1,0 +1,6 @@
+Illustrative test transcript (verify by running the GUI):
+REG1024, 2500 -> Payment successful
+empty registration, 2500 -> Enter a valid registration number.
+REG1024, abc -> Enter a numeric amount.
+REG1024, -50 -> Amount must be greater than zero.
+REG1024, 0 -> Amount must be greater than zero.

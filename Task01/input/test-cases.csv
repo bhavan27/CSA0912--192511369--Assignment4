@@ -1,0 +1,6 @@
+case,registration_number,amount,expected
+valid,REG1024,2500,Payment successful
+empty_registration,,2500,Validation error
+invalid_amount,REG1024,abc,Validation error
+negative_amount,REG1024,-50,Validation error
+zero_amount,REG1024,0,Validation error

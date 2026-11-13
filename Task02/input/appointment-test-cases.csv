@@ -1,0 +1,5 @@
+patient_id,department,doctor,time_slot,expected
+P1001,Cardiology,Dr. Anand,09:00,Confirmation
+P1002,Dermatology,Dr. Nisha,10:00,Confirmation
+,Neurology,Dr. Ravi,11:00,Validation error
+P1003,Neurology,Dr. Leela,15:00,Confirmation

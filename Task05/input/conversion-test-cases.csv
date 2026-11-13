@@ -1,0 +1,5 @@
+amount_inr,target,expected
+1000,USD,12.00 USD
+1000,EUR,11.00 EUR
+abc,USD,Invalid amount
+-10,EUR,Invalid amount

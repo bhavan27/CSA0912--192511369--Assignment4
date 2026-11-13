@@ -1,0 +1,6 @@
+student_id,student_name,event,email,expected
+STU2001,Meena,TechFest,meena@example.com,Success first time
+STU2001,Meena,TechFest,meena@example.com,Duplicate rejected
+,Meena,TechFest,meena@example.com,Invalid student ID
+STU2002,,Workshop,stu@example.com,Invalid name
+STU2003,Ravi,Workshop,not-an-email,Invalid email

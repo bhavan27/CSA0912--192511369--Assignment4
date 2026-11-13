@@ -1,0 +1,5 @@
+Expected demonstrations after MySQL setup:
+Valid new student/event pair -> row inserted and table refreshed.
+Same student/event pair again -> unique constraint rejects duplicate; user sees duplicate message.
+Invalid student ID/name/email -> RegistrationService rejects before database insertion.
+Filter -> selected event rows loaded using LIMIT/OFFSET in SwingWorker.

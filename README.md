@@ -3,7 +3,7 @@
 **Student:** V. C. Bhavan Bairav  
 **Register Number:** 192511369  
 **Course:** Programming in Java – CSA0912 (CO2)  
-**Assignment:** Assignment 2 – 50 Marks
+**Assignment:** Assignment 4 – 50 Marks
 
 ## Event-Driven GUI Design
 
